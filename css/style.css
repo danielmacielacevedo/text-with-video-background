@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* text with video background */
+
+.dannmacode-title-container 
+{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.dannmacode-title-container video 
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+.dannmacode-title 
+{
+    width: 100%;
+    height: 100%;
+    font-size: 500px;
+    font-family: Montserrat;
+    background-color: black;
+    color: white;
+    mix-blend-mode: multiply;
+}
+
+/* by dannmacodes */
+
+
+
+
+
+
+
+
+
